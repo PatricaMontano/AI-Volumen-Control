@@ -12,7 +12,10 @@ To run execute VolumeHandControl.py file
 python3 VolumeHandControl.py
 ```
 
+<!--
 ## Example in execution
 
 
+<!--
 ![2022-12-04_19-08](https://user-images.githubusercontent.com/51218499/205524262-b06258d8-07b9-486f-888e-050f84b279cc.png)
+--> 
