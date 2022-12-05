@@ -14,4 +14,5 @@ python3 VolumeHandControl.py
 
 ## Example in execution
 
-![2022-12-04_18-38](https://user-images.githubusercontent.com/51218499/205524110-9af301a3-1504-4a85-8e92-1e56268dfc0c.png)
+
+![2022-12-04_19-08](https://user-images.githubusercontent.com/51218499/205524262-b06258d8-07b9-486f-888e-050f84b279cc.png)
